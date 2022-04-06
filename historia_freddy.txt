@@ -6,7 +6,8 @@ viviendo por todo el mundo.
 Hoy hablaremos de su historia.
 Bueno, todo comenzo en medellin.
 
-Y bueno esta es su historia.
+Y bueno esta es su historia. Vamos a agregar cambios aqui, porque si.
+y otra linea aqui para ver si funciona el commit.
 
 En camara se ve alto, pero en realidad no lo es tanto.
 
