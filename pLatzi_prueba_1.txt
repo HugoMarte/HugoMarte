@@ -4,3 +4,4 @@ esto deberia añadirse a lo que tengo en el disco duro.
 un cambio cualquiera 
 y otro cambio mas.
 ahora vamos a probar si los branches funcionan, en teoria esto es uno.
+este es el branch master, ahora vamos a hacer un commit de esto y a intentar hacer un merge.
