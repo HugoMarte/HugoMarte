@@ -12,3 +12,5 @@ y otra linea aqui para ver si funciona el commit.
 En camara se ve alto, pero en realidad no lo es tanto.
 
 Hoy es el CEO de platzi.
+
+vamos a ver si lo de los branches tambien funciona aqui.
