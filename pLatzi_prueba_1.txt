@@ -3,3 +3,5 @@ vamos a ver si esto funciona cuando yo lo mande a mi consola.
 esto deberia añadirse a lo que tengo en el disco duro.
 un cambio cualquiera 
 y otro cambio mas.
+hostia cree un branch porque aqui no aparece el cambio que hice en el otro lado.
+vamos a ver que pasa cuando los haga merge.
